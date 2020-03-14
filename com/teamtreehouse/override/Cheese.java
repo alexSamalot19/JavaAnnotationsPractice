@@ -3,7 +3,7 @@ package com.teamtreehouse.override;
 public class Cheese{
 
     @Override
-    public String toString(String something){
+    public String toString(){
         return "String Cheese";
     }
 }
