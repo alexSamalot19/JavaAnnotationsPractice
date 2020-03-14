@@ -4,7 +4,7 @@ import java.util.List;
 import java.io.Console;
 
 public class Main {
-  
+    @SuppressWarnings({"static", "fallthrough"})
     public static void main(String[] args) {
         Console console = System.console();
         
